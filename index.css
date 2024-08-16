@@ -1,0 +1,290 @@
+body{
+    background-color: black;
+    color: white;    
+}
+
+#Topo{  
+    background-color: rgb(26, 25, 25);
+    text-align: center;
+    height: 120px;
+    width: auto;
+    margin: -25px -8px auto -8px;
+    padding-top: 10px;
+    border: 2px, solid rgb(63, 63, 63);
+}
+
+.C2{
+    font-family: "Bebas Neue", serif;
+}
+.L{
+    color: gold;
+    text-shadow: 2px 1px 5px purple;
+}
+
+#id{
+    background-color: rgb(26, 25, 25);
+    text-align: center;
+    height: 180px;
+    width: auto;
+    margin: 25px -8px auto -8px;
+    border: 2px, solid rgb(63, 63, 63);
+}
+
+.A2{
+    text-shadow: 2px 2px 5px aqua;
+    font-family: "Alex Brush", serif;
+}
+
+.h{
+    font-size: 30px;
+}
+
+.oi{
+   border-radius: 100%;
+   width: 160px;
+   height: 160px;
+   margin-top: 40px;
+}
+
+#id li{
+    list-style: none;
+    font-size: 22px;
+}
+
+.pi{
+    color: white;
+}
+
+#IMG{
+    text-align: center;
+}
+
+#B2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.B2{
+    width: 350px;
+    height: 560px;
+    border-radius: 180px;
+}
+
+.at{
+    height: 450px;
+    background-color: rgb(63, 63, 63);
+    width: 450px;
+    border: 4px solid white;
+    border-radius: 80px;
+    font-size: 22px;
+    color: white;    
+}
+
+#AB{
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 120px;
+}
+
+#AC{
+    text-align: center;
+    margin-left: 1250px;
+    margin-top: -450px;
+    display: flex;
+}
+
+#AD{
+    text-align: center;
+    margin-left: 680px;
+    margin-top: -462px;
+    display: flex;
+}
+
+.p{
+    font-size: 25px;
+}
+
+.p1{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    margin-top: 70px;
+    display: flex;
+    background-color: rgb(46, 26, 102);
+    width: 89px;
+    height: 25px;
+    padding: 9px;
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+#A{
+    display: flex;
+    margin: 5px;
+    margin-top: 80px;
+}
+
+.B{
+    margin-top: -100px;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(87, 34, 212);
+    margin-left: 30px;
+    font-family: "Comfortaa", serif;
+    text-shadow: 2px 2px 2px rgb(121, 3, 3);
+}
+
+#C{
+    text-align: left;
+    padding: 5px;
+    margin-left: -19px;
+}
+
+.D{
+    text-align: left;
+    margin-top: -45px;
+    margin-left: -245px;
+    font-size: 25px;
+}
+
+#E{
+    background-color: rgb(79, 8, 114);
+    height: 80px;
+    margin-top: -18px;
+    margin-left: -15px;
+    width: auto;
+}
+.G{
+    margin-left: 50px;
+    display: flex;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    padding: 1px;
+}
+
+.G2{
+    margin-right: 50px;
+    display: flex;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    float: right;
+    margin-top: -90px;
+}
+
+.F{
+    margin-left: 275px;
+    margin-top: 30px;
+    text-shadow: 2px 2px 5px purple;
+    font-family: "Alex Brush", serif;
+    font-size: 20px;
+}
+
+.wtf{
+    margin-left: 590px;
+    margin-top: -750px;
+    font-size: 27px;
+}
+
+.n1{
+    margin-top: 15px;
+    margin-left: -10px;
+    width: 602px;
+    height: 752px;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    border-radius: 50px;
+    border: 2px solid white;
+}
+
+#ok{
+    width: 250px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.pr{
+    font-size: 23px;
+    display: flex;
+    margin-top: -50px;
+    margin-left: 270px;
+}
+
+.pk{
+    font-size: 25px;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 610px;
+}
+
+.p12{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    margin-top: 125px;
+    display: flex;
+    background-color: rgb(46, 26, 102);
+    width: 89px;
+    height: 25px;
+    padding: 9px;
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+.pp{
+    font-size: 30px;
+    display: flex;
+    margin-top: -370px;
+    margin-left: 280px;
+    color: aqua;
+    text-shadow: 2px 1px 5px greenyellow;
+    font-family: "Cinzel Decorative", serif;
+}
+
+.p0{
+    font-size: 30px;
+    display: flex;
+    margin-top: -350px;
+    margin-left: 610px;
+    color: rgb(109, 236, 236);
+    text-shadow: 2px 1px 5px greenyellow;
+    font-family: "Cinzel Decorative", serif;
+}
+
+hr{
+    margin-top: 50px;
+}
+
+.Arthur{
+    width: 740px;
+    height: 370px;
+    border: 3px solid rgb(51, 38, 236);
+    margin-top: -80px;
+}
+
+.PW{
+    font-size: 25px;
+    margin-left: 630px;
+    margin-top: -10px;
+}
+
+.m0{
+    margin-left: 640px;
+    margin-top: -390px;
+    font-family: "Comfortaa", serif;
+    text-shadow: 2px 2px 2px rgb(122, 5, 5);
+    color: rgb(87, 34, 212);
+    font-size: 35px;
+}
+
+.AAAA{
+    margin-top: 90px;
+    margin-left: 7px;
+    border: 3px solid rgb(51, 38, 236);
+}
